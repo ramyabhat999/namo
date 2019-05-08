@@ -1,0 +1,24 @@
+.btn-green{border:3px solid #E4508F; border-radius:50%; 
+	       width:230px;  
+	       background-color:#ADF9D2;  
+	       text-align:center;
+	       margin-left:750px; margin-top: 70px; 
+	       padding:5px;}
+.btn-green:hover{background-color:#8B5D5D;}
+.btn-green a{font-family:'Courgette',cursive; font-size:30px; 
+             color:#E4508F; 
+             text-decoration:none; 
+             text-align:center;}
+.btn-green a:hover{color:#ADF9D2;}
+
+.btn-dresses{border:3px solid #E4508F; border-radius:50%;
+             width:160px; 
+	         background-color:#ADF9D2;  
+	         margin-left: 20px;
+	         padding: 90px 5px;}
+.btn-dresses:hover{background-color:#8B5D5D;}
+.btn-dresses a{font-family:'Courgette',cursive; font-size:20px; 
+             color:#E4508F; 
+             text-decoration:none; 
+             text-align: center;}
+.btn-dresses a:hover{color:#ADF9D2;}
